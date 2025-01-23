@@ -1,8 +1,6 @@
-<center>
+<div align="center">
   
-  <img width="64" src="https://github.com/NedcloarBR-Study/.github/blob/master/profile/assets/Icon.png?raw=true" />
-  
-## Here you will find the repositories of my courses and college
+  ## Here you will find the repositories of my courses and college
 
 <div>
   <img width="64" alt="Senai Logo" src="https://github.com/NedcloarBR-Study/.github/blob/master/profile/assets/Senai.svg?raw=true"/>
@@ -20,5 +18,5 @@
 </div>
 
 ###
-  
-</center>
+
+</div>
