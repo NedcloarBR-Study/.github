@@ -3,7 +3,7 @@
   ## Here you will find the repositories of my courses and college
 
 <div>
-  <img width="64" alt="Senai Logo" src="https://github.com/NedcloarBR-Study/.github/blob/master/profile/assets/Senai.svg?raw=true"/>
+  <img width="128" alt="Senai Logo" src="https://github.com/NedcloarBR-Study/.github/blob/master/profile/assets/Senai.svg?raw=true"/>
   
 ### Análise e Desenvolvimento de Sistemas
 
