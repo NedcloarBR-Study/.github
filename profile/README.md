@@ -3,7 +3,7 @@
   ## Here you will find the repositories of my courses and college
 
 <div>
-  <img width="64" alt="Senai Logo" src="https://github.com/NedcloarBR-Study/.github/blob/master/profile/assets/Senai.svg?raw=true"/>
+  <img width="300" alt="Senai Logo" src="https://github.com/NedcloarBR-Study/.github/blob/master/profile/assets/Senai.svg?raw=true"/>
 
   [![Senai C ANSI](https://github-readme-stats.vercel.app/api/pin/?username=NedcloarBR-Study&repo=senai-c-ansi&theme=dark)](https://github.com/NedcloarBR-Study/Senai-C-ANSI)
   [![Senai Network Cisco](https://github-readme-stats.vercel.app/api/pin/?username=NedcloarBR-Study&repo=senai-network-cisco&theme=dark)](https://github.com/NedcloarBR-Study/Senai-Network-Cisco)
