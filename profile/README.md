@@ -29,4 +29,13 @@
   [![Udemy ReactZeroMaestria](https://github-readme-stats.vercel.app/api/pin/?username=NedcloarBR-Study&repo=udemy-reactzeromaestria&theme=dark)](https://github.com/NedcloarBR-Study/Udemy-ReactZeroMaestria)
 </div>
 
+###
+
+<div>
+  <img width="128" alt="FullCycle Logo" src="https://github.com/NedcloarBR-Study/.github/blob/master/profile/assets/FullCycle.svg?raw=true"/>
+
+  [![FullCycle ](https://github-readme-stats.vercel.app/api/pin/?username=NedcloarBR-Study&repo=fullcycle-immersion-16&theme=dark)](https://github.com/NedcloarBR-Study/FullCycle-Immersion-16)
+  [![FullCycle ](https://github-readme-stats.vercel.app/api/pin/?username=NedcloarBR-Study&repo=fullcycle-levelupforjuniors-01&theme=dark)](https://github.com/NedcloarBR-Study/FullCycle-LevelUpForJuniors-01)
+</div>
+
 </div>
