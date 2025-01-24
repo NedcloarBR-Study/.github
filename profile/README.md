@@ -24,7 +24,7 @@
 <div>
   <img width="128" alt="Udemy Logo" src="https://github.com/NedcloarBR-Study/.github/blob/master/profile/assets/Udemy.svg?raw=true"/>
 
-  [![Udemy NestJSDoZero](https://github-readme-stats.vercel.app/api/pin/?username=NedcloarBR-Study&repo=udemy-nestjsdozero&theme=dark)](https://github.com/NedcloarBR-Study/Udemy-NestoJSDoZero)
+  [![Udemy NestJSDoZero](https://github-readme-stats.vercel.app/api/pin/?username=NedcloarBR-Study&repo=udemy-nestjsdozero&theme=dark)](https://github.com/NedcloarBR-Study/Udemy-NestJSDoZero)
   [![Udemy RustZeroPleno](https://github-readme-stats.vercel.app/api/pin/?username=NedcloarBR-Study&repo=udemy-rustzeropleno&theme=dark)](https://github.com/NedcloarBR-Study/Udemy-RustZeroPleno)
   [![Udemy ReactZeroMaestria](https://github-readme-stats.vercel.app/api/pin/?username=NedcloarBR-Study&repo=udemy-reactzeromaestria&theme=dark)](https://github.com/NedcloarBR-Study/Udemy-ReactZeroMaestria)
 </div>
