@@ -27,6 +27,7 @@
   [![Udemy NestJSDoZero](https://github-readme-stats.vercel.app/api/pin/?username=NedcloarBR-Study&repo=udemy-nestjsdozero&theme=dark)](https://github.com/NedcloarBR-Study/Udemy-NestJSDoZero)
   [![Udemy RustZeroPleno](https://github-readme-stats.vercel.app/api/pin/?username=NedcloarBR-Study&repo=udemy-rustzeropleno&theme=dark)](https://github.com/NedcloarBR-Study/Udemy-RustZeroPleno)
   [![Udemy ReactZeroMaestria](https://github-readme-stats.vercel.app/api/pin/?username=NedcloarBR-Study&repo=udemy-reactzeromaestria&theme=dark)](https://github.com/NedcloarBR-Study/Udemy-ReactZeroMaestria)
+  [![Udemy NestJS_GraphQL](https://github-readme-stats.vercel.app/api/pin/?username=NedcloarBR-Study&repo=udemy-nestjs_graphql&theme=dark)](https://github.com/NedcloarBR-Study/Udemy-NestJS_GraphQL)
 </div>
 
 ###
